@@ -9,6 +9,7 @@
     "backend": "json-server --watch ./db.json --port 5000"
   },
   "dependencies": {
+    "mongoose": "^7.0.3",
     "vue": "^3.2.47",
     "vue-router": "^4.0.13"
   },
